@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "name": "Phuong thuy update",
+      "id": 1
+    },
+    {
+      "name": "hao",
+      "username": "trongkien123",
+      "email": "trongkien@gmail.com",
+      "phone": "9956976967",
+      "id": 2
+    },
+    {
+      "name": "updtae",
+      "id": 4
+    },
+    {
+      "name": "Thuy Huong",
+      "username": "thuyhuong4567",
+      "email": "thuyhuong2547@gmail.com",
+      "phone": "444444444444",
+      "id": 5
+    }
+  ]
+}
